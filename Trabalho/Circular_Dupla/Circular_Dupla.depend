@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1575405359 source:c:\users\maria\onedrive\documents\aula ed\circular_dupla\circular_dupla.c
+	<stdio.h>
+	<stdlib.h>
+	"Circular_Dupla.h"
+
+1575400518 c:\users\maria\onedrive\documents\aula ed\circular_dupla\circular_dupla.h
+
+1575309716 source:c:\users\maria\onedrive\documents\aula ed\circular_dupla\main.c
+	"Circular_Dupla.h"
+	<stdio.h>
+	<stdlib.h>
+
+1575653652 source:c:\users\maria\onedrive\documents\aula ed\trabalho\circular_dupla\main.c
+	"Circular_Dupla.h"
+	<stdio.h>
+	<stdlib.h>
+
+1575653652 c:\users\maria\onedrive\documents\aula ed\trabalho\circular_dupla\circular_dupla.h
+
+1575728983 source:c:\users\maria\onedrive\documents\aula ed\trabalho\circular_dupla\circular_dupla.c
+	<stdio.h>
+	<stdlib.h>
+	"Circular_Dupla.h"
+

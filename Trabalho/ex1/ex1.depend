@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1575429584 source:c:\users\maria\onedrive\documents\aula ed\ex1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"listaSimplesAlunos.h"
+
+1575429688 source:c:\users\maria\onedrive\documents\aula ed\ex1\listasimplesalunos.c
+	<stdio.h>
+	<stdlib.h>
+	"listaSimplesAlunos.h"
+
+1575428755 c:\users\maria\onedrive\documents\aula ed\ex1\listasimplesalunos.h
+
+1575671332 source:c:\users\maria\onedrive\documents\aula ed\trabalho\ex1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"listaSimplesAlunos.h"
+
+1575658518 c:\users\maria\onedrive\documents\aula ed\trabalho\ex1\listasimplesalunos.h
+
+1575672818 source:c:\users\maria\onedrive\documents\aula ed\trabalho\ex1\listasimplesalunos.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"listaSimplesAlunos.h"
+
